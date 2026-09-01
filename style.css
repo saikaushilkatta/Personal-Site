@@ -7,3 +7,18 @@ body {
 h1, h2 {
     text-align: center;
 }
+
+section {
+    margin: 20px auto;
+    padding: 15px;
+    max-width: 600px;
+    background-color: rgba(225, 225, 225, 0.1);
+    border-radius: 8px;
+}
+
+nav a {
+    color: #ffd700;
+    text-decoration: none;
+    margin: 0 10px;
+    font-weight: bold;
+}
